@@ -4,7 +4,21 @@
     margin: 0;
 }
 
-.logo{
-    display: flex;
+header{
+    width: 414px;
     background-color: #F0A83E;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 44px;
 }
+.logo{
+    background-color: #F0A83E;
+    
+}
+header .front{
+    color: black;
+}
+/* .cat_dog{
+    color: white;
+
+} */
